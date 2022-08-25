@@ -19,3 +19,6 @@
 
 ### As you turn the motor slowly, you can see that the output voltage of C1 and C2 change from 0V to 3V.
 ### If you have 2 multimeter, attach C1 and C2 each to a multimeter, then turn the multimeter slowly you can see the value of multimeter change from 3V-3V, 0V-3V,0V-0V,3V-3V, which is the pulse according the background theory)
+### [FB237MUIXLAD6OS.zip](https://github.com/Fai-fahad/Electronics-and-electrical-forces/files/9421402/FB237MUIXLAD6OS.zip)
+
+
